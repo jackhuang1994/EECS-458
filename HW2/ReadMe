@@ -1,0 +1,5 @@
+Source code Alignment.java is included in the zip file. It can compile and execute in Java IDE with Java installed.
+
+There is another executable Alignment.jar required Java Runtime Environment (JRE).
+
+Two input files input1.txt and input2.txt with first line "g" or "l", second line three numbers, third and fourth line are two sequences.
